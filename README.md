@@ -342,7 +342,7 @@ docker stop <container-id>
 - **Gilhari SDK Documentation**: The SDK available for download at [https://softwaretree.com](https://softwaretree.com)
 - **ORMCP Documentation**: [https://github.com/softwaretree/ormcp-docs](https://github.com/softwaretree/ormcp-docs)
 - **Database Configuration Guide**: See `JDX_DATABASE_JDBC_DRIVER_Specification_Guide.md`
-- **Basic Example**: [gilhari_example1](https://github.com/SoftwareTree/gilhari_example1)
+- **operationDetails Documentation**: See `operationDetails_doc.md` for GraphQL-like query capabilities
 
 ## Platform Notes
 
